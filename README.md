@@ -33,3 +33,9 @@
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект. Не забудьте установить бейджик сборки.**
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/c1qka58wla89rc84/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-3-1-wqs56/branch/main)
+
+---
+
+https://222alexa.github.io/AHJ-3.1/
